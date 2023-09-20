@@ -56,11 +56,6 @@ This is the plan for recovering and restoring affected systems and/or data. Impr
 <img src="https://i.ibb.co/VN86LMK/Incident-Report-Analysis-pt-2.jpg" alt="Incident-Report-Analysis-pt-2">
 </p>
 
-<h2>Additional Considerations and Recommendations</h2>
-
-</br>
-
--
 
 
 <!--
