@@ -46,50 +46,21 @@ This is the plan for recovering and restoring affected systems and/or data. Impr
 - The company’s cybersecurity team then investigated the security event. They found that a malicious actor had sent a flood of ICMP pings into the company’s network through an unconfigured firewall. This vulnerability allowed the malicious attacker to overwhelm the company’s network through a distributed denial of service (DDoS) attack. 
 
 
-<h2>Scope</h2>
+<h2>Incident Report Analysis</h2>
 
 <p align="center">
-<img src="https://i.ibb.co/vm0KQs1/Internal-Audit-Scope.jpg" height="80%" width="80%" alt="Generic Description"/> 
+<img src="https://i.ibb.co/zx10kz6/Incident-Report-Analysis-pt-1.jpg" alt="Incident-Report-Analysis-pt-1">
 </p>
 
-<h2>Goals</h2>
-
 <p align="center">
-<img src="https://i.ibb.co/wMYVXVr/Internal-Audit-Goals.jpg" height="80%" width="80%" alt="Goals"/>
-</p>
-
-<h2>Risk Assessment Report</h2>
-
-<p align="center">
-<img src="https://i.ibb.co/0t2Wstc/Internal-Audit-Risk-Assessment.jpg" height="80%" width="80%" alt="Internal-Audit-Risk-Assessment">
-</br>
-<img src="https://i.ibb.co/SdSnqD4/Internal-Audit-Risk-Assessment-pg2.jpg" height="80%" width="80%" alt="Internal-Audit-Risk-Assessment-pg2">
-</p>
-
-<h2>Controls And Compliance Checklist</h2>
-
-<p align="center">
-
-<img src="https://i.ibb.co/gv3Kwc2/Internal-Audit-Controls-And-Compliance-Checklist-pg1.jpg" height="80%" width="80%" alt="Internal-Controls-And-Compliance-Checklist-Pg1">
-
-</br>
-
-<img src="https://i.ibb.co/cFYZrBz/Internal-Audit-Controls-And-Compliance-Checklist-pg2.jpg" height="80%" width="80%" alt="Internal-Controls-And-Compliance-Checklist-Pg2">
-
+<img src="https://i.ibb.co/VN86LMK/Incident-Report-Analysis-pt-2.jpg" alt="Incident-Report-Analysis-pt-2">
 </p>
 
 <h2>Additional Considerations and Recommendations</h2>
 
 </br>
 
-- All Botium Toys employees have access to internally stored data including access to cardholder data and customers’ PII/SPII. Not all employees need access to this information. Access to this information should be limited to employees who are authorized to. And then the time allotted to access this information should be limited. Establishing and implementing access controls pertaining to the principle of least privilege and separation of duties will remedy this.
-- No disaster recovery plans are currently in place and Botium Toys does not have any backups of critical data. It’s important to have backups of data to restore and recover systems to minimize the negative impact on business continuity should an attack or other disasters occur. 
-- Increase minimum password complexity requirements (e.g., at least eight characters, a combination of letters and at least one number; special characters).
-- Separation of duties have not been established and implemented. To minimize negative impacts, no one individual should have control of critical processes (example: individual responsible for signing/authorizing paychecks should not also be the one creating them),
-- No backups. See comment concerning disaster recovery plans.
-- Establish a regular schedule for tasks and clarify intervention methods concerning the legacy systems in use. 
-- Implementing encryption concerning customers' credit card information will help avoid protected data leaks and compliance violations. 
-- Establish a password management system exists that enforces the minimum password policy’s minimum requirement.
+-
 
 
 <!--
