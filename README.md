@@ -46,6 +46,8 @@ This is the plan for recovering and restoring affected systems and/or data. Impr
 - The company’s cybersecurity team then investigated the security event. They found that a malicious actor had sent a flood of ICMP pings into the company’s network through an unconfigured firewall. This vulnerability allowed the malicious attacker to overwhelm the company’s network through a distributed denial of service (DDoS) attack. 
 
 
+<h2><i>The following incident report analysis was created using a template from the Google Cybersecurity Certificate course material.</i></h2>
+
 <h2>Incident Report Analysis</h2>
 
 <p align="center">
@@ -53,7 +55,7 @@ This is the plan for recovering and restoring affected systems and/or data. Impr
 </p>
 
 <p align="center">
-<img src="https://i.ibb.co/VN86LMK/Incident-Report-Analysis-pt-2.jpg" alt="Incident-Report-Analysis-pt-2">
+<img src="https://i.ibb.co/Nnq4VcM/Incident-Report-Analysis-pt-2.jpg" alt="Incident-Report-Analysis-pt-2">
 </p>
 
 
