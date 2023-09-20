@@ -1,4 +1,4 @@
-<h1>Google Cybersecurity Internal Audit Lab</h1>
+<h1>Google Cybersecurity lab: Applying the NIST CSF to a security incident</h1>
 
 <h2>Overview</h2>
 In this lab, we'll be applying the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF) to respond to a security incident. The NIST CSF provides organizations with a way to manage cybersecurity risks, implement management strategies, and apply knowledge from previous mistakes. The core functions of the NIST CSF are to: identify, protect, detect, respond, and recover. We'll start with defining what each of those functions are, some notes about them, and then apply those functions to a fictional scenario in the form of an incident report.
